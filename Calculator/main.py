@@ -11,7 +11,7 @@ def divide(x, y):
     return x, y
 
 def main():
-    operation = input("which opperation?\n(1. Add, 2. Subtract, 3. Multiply, 4. Divide)")
+    operation = input("which operation?\n(1. Add, 2. Subtract, 3. Multiply, 4. Divide)")
     x = float(input("Enter the first number " ))
     y = float(input('Enter the second number ' ))
 
